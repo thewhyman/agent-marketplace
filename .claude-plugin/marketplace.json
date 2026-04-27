@@ -1,38 +1,38 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "thewhyman",
+  "name": "xos",
   "owner": {
     "name": "Anand Vallamsetla",
     "email": "thewhyman@users.noreply.github.com"
   },
   "metadata": {
-    "description": "thewhyman/agent-marketplace — author-scoped marketplace for all thewhyman-authored Claude Code units. Hosts the xOS plugin family (xTeamOS, xHumanOS, xFamilyOS, xCommunityOS) plus standalone tools (Co-Dialectic) and apps (Career-OS). Marketplace name 'thewhyman' is author-scoped — install reads as @thewhyman regardless of plugin family."
+    "description": "xos \u2014 Exponential OS for Exponential Orgs, Humans, and More 2.0 (a play on the Singularity University book by Salim Ismail). The platform marketplace catalog hosted by Exponential-OS. Hosts the xOS family \u2014 AI-native operating systems for humans (xHumanOS), teams (xTeamOS), communities (xCommunityOS), families (xFamilyOS), and beyond \u2014 plus standalone tools (Co-Dialectic) and apps (Career-OS). Plugins install as @xos."
   },
   "plugins": [
     {
       "name": "co-dialectic",
       "source": {
         "source": "url",
-        "url": "https://github.com/thewhyman/prompt-engineering-in-action.git",
-        "sha": "3dda4ece79bd30fcf7394b68d0f6815d8afc28b1",
+        "url": "https://github.com/Exponential-OS/prompt-engineering-in-action.git",
+        "sha": "964f2cd035cd98819d1e4e71aee237a96b7dc876",
         "path": "plugins/co-dialectic"
       },
-      "description": "Co-Dialectic v3 — LLM prompt optimizer + cross-family cascade-then-jury review (judge-panel) + hallucination detector. Socratic coaching, persona detection, context management, prompt improvement, and Defense-in-Depth verification across any AI.",
-      "version": "3.4.0",
+      "description": "Co-Dialectic v4.0.0 \u2014 LLM prompt optimizer + cross-family cascade-then-jury review (judge-panel) + hallucination detector + research-first mode + fish-swarm orchestration + session handoff codification. Socratic coaching, persona detection, context management, prompt improvement, and Defense-in-Depth verification across any AI.",
+      "version": "4.0.0",
       "category": "productivity",
-      "homepage": "https://github.com/thewhyman/prompt-engineering-in-action"
+      "homepage": "https://github.com/Exponential-OS/prompt-engineering-in-action"
     },
     {
       "name": "career-os",
       "source": {
         "source": "url",
-        "url": "https://github.com/thewhyman/career-os-plugin.git",
-        "sha": "1fbe266e234369924185388f4f9243fe01f50e65"
+        "url": "https://github.com/Exponential-OS/career-os-plugin.git",
+        "sha": "5b8cd8d6f4c1f57cce9eb2cad91e6ec44058c16b"
       },
-      "description": "Career OS — AI-powered career management system. The operating system for your career — persistent memory, session capture, git-versioned data, full privacy. v0.24.0 file-only substrate + biographical-claim precheck.",
-      "version": "0.24.0",
+      "description": "Career OS \u2014 AI-powered career management system. The operating system for your career \u2014 persistent memory, session capture, git-versioned data, full privacy. v0.25.0 file-only substrate + biographical-claim precheck.",
+      "version": "0.25.0",
       "category": "productivity",
-      "homepage": "https://github.com/thewhyman/career-os-plugin"
+      "homepage": "https://github.com/Exponential-OS/career-os-plugin"
     }
   ]
 }

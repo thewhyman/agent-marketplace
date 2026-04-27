@@ -1,0 +1,25 @@
+.DS_Store
+
+# Workspace-private dirs (NEVER commit to public repos)
+.career-os/
+.cyborg/
+.claude/
+.agents/
+.codex/
+.superset/
+WIP/
+INPUT/
+NEXT_SESSION_HANDOFF.md
+*handoff*
+handoff.md
+
+# Secrets
+.env
+.env.local
+*.secret
+*.key
+
+# Generated / OS
+node_modules/
+__pycache__/
+*.log
