@@ -1,0 +1,38 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "thewhyman",
+  "owner": {
+    "name": "Anand Vallamsetla",
+    "email": "thewhyman@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "thewhyman/agent-marketplace — author-scoped marketplace for all thewhyman-authored Claude Code units. Hosts the xOS plugin family (xTeamOS, xHumanOS, xFamilyOS, xCommunityOS) plus standalone tools (Co-Dialectic) and apps (Career-OS). Marketplace name 'thewhyman' is author-scoped — install reads as @thewhyman regardless of plugin family."
+  },
+  "plugins": [
+    {
+      "name": "co-dialectic",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/thewhyman/prompt-engineering-in-action.git",
+        "sha": "3dda4ece79bd30fcf7394b68d0f6815d8afc28b1",
+        "path": "plugins/co-dialectic"
+      },
+      "description": "Co-Dialectic v3 — LLM prompt optimizer + cross-family cascade-then-jury review (judge-panel) + hallucination detector. Socratic coaching, persona detection, context management, prompt improvement, and Defense-in-Depth verification across any AI.",
+      "version": "3.4.0",
+      "category": "productivity",
+      "homepage": "https://github.com/thewhyman/prompt-engineering-in-action"
+    },
+    {
+      "name": "career-os",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/thewhyman/career-os-plugin.git",
+        "sha": "b7956abbae67cf98307645c0ccc5034aad3c2ea6"
+      },
+      "description": "Career OS — AI-powered career management system. The operating system for your career — persistent memory, session capture, git-versioned data, full privacy. v0.24.0 file-only substrate + biographical-claim precheck.",
+      "version": "0.24.0",
+      "category": "productivity",
+      "homepage": "https://github.com/thewhyman/career-os-plugin"
+    }
+  ]
+}
