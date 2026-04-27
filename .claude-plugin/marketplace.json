@@ -27,10 +27,10 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Exponential-OS/career-os-plugin.git",
-        "sha": "5b8cd8d6f4c1f57cce9eb2cad91e6ec44058c16b"
+        "sha": "4c3457aaf3d96938d62cc461f852f31513fff7fe"
       },
-      "description": "Career OS \u2014 AI-powered career management system. The operating system for your career \u2014 persistent memory, session capture, git-versioned data, full privacy. v0.25.0 file-only substrate + biographical-claim precheck.",
-      "version": "0.25.0",
+      "description": "Career OS \u2014 AI-powered career management system. The operating system for your career \u2014 persistent memory, session capture, git-versioned data, full privacy. v0.25.1 file-only substrate + biographical-claim precheck.",
+      "version": "0.25.1",
       "category": "productivity",
       "homepage": "https://github.com/Exponential-OS/career-os-plugin"
     }
