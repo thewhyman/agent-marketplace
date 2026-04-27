@@ -27,7 +27,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/thewhyman/career-os-plugin.git",
-        "sha": "6141e4c644e382ca7cb8fbdf8694f9286ce4222a"
+        "sha": "1fbe266e234369924185388f4f9243fe01f50e65"
       },
       "description": "Career OS — AI-powered career management system. The operating system for your career — persistent memory, session capture, git-versioned data, full privacy. v0.24.0 file-only substrate + biographical-claim precheck.",
       "version": "0.24.0",
