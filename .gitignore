@@ -4,6 +4,7 @@
 .career-os/
 .cyborg/
 .claude/
+!.claude/settings.json
 .agents/
 .codex/
 .superset/
