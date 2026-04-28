@@ -14,7 +14,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Exponential-OS/prompt-engineering-in-action.git",
-        "sha": "6937323479ede44e6daa9da624b831d2106d4d65",
+        "sha": "35673b502febf0eee3cde3434c904b5ad3e4973f",
         "path": "plugins/co-dialectic"
       },
       "description": "Co-Dialectic v4.1.0 — LLM prompt optimizer + auto-verify by stakes (T0-T4) + auto-handoff on closure + honesty selector (brutal/grounded/soft) + agent-swarm default-on + hygiene cycle + cross-family cascade-then-jury review (judge-panel) + hallucination detector + research-first mode + fish-swarm orchestration + session handoff codification. Socratic coaching, persona detection, context management, prompt improvement, and Defense-in-Depth verification across any AI.",
