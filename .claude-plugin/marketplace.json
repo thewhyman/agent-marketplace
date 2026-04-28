@@ -14,7 +14,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Exponential-OS/prompt-engineering-in-action.git",
-        "sha": "35673b502febf0eee3cde3434c904b5ad3e4973f",
+        "sha": "ed11f2b224966c5d89509e6b679f3b1cd2be8479",
         "path": "plugins/co-dialectic"
       },
       "description": "Co-Dialectic v4.1.0 — LLM prompt optimizer + auto-verify by stakes (T0-T4) + auto-handoff on closure + honesty selector (brutal/grounded/soft) + agent-swarm default-on + hygiene cycle + cross-family cascade-then-jury review (judge-panel) + hallucination detector + research-first mode + fish-swarm orchestration + session handoff codification. Socratic coaching, persona detection, context management, prompt improvement, and Defense-in-Depth verification across any AI.",
@@ -27,7 +27,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Exponential-OS/career-os-plugin.git",
-        "sha": "afc819ca9aae0c5176f0eb26b53ca0b8d5a75150"
+        "sha": "690db081d4a2fd831ef853d86df318c124fbb6d4"
       },
       "description": "Career OS — AI-powered career management system. The operating system for your career — persistent memory, session capture, git-versioned data, full privacy. v0.27.0 outreach-fact-check (T4 immunity) + interviewer-research (panel prep automation).",
       "version": "0.27.0",
