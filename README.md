@@ -11,12 +11,14 @@ This repo holds the canonical `.claude-plugin/marketplace.json` for `@thewhyman`
 /plugin install <plugin>@thewhyman
 ```
 
-## What's available
+## Currently pinned plugins (2026-04-27)
 
-| Plugin | Version | What it does |
+| Plugin | Version | What |
 |---|---|---|
-| `co-dialectic` | 3.4.0 | LLM prompt sharpening + cross-family judge-panel cascade + hallucination detection |
-| `career-os` | 0.24.0 | AI-powered career management — persistent memory, pipeline tracking, outreach drafting |
+| co-dialectic | 4.1.0 | LLM prompt optimizer + 5 protocols (Auto-Verify · Auto-Handoff · Honesty · Agent-Swarm · Hygiene) + cross-family review |
+| career-os | 0.27.0 | Career-OS + outreach-fact-check (T4 immunity) + interviewer-research (panel prep) |
+
+See `.claude-plugin/marketplace.json` for canonical pinned commits.
 
 xOS family plugins (`xteamos`, `xhumanos`, `xfamilyos`, `xcommunityos`) ship into this marketplace as each lands.
 
