@@ -6,7 +6,7 @@
     "email": "thewhyman@users.noreply.github.com"
   },
   "metadata": {
-    "description": "xos \u2014 Exponential OS for Exponential Orgs, Humans, and More 2.0 (a play on the Singularity University book by Salim Ismail). The platform marketplace catalog hosted by Exponential-OS. Hosts the xOS family \u2014 AI-native operating systems for humans (xHumanOS), teams (xTeamOS), communities (xCommunityOS), families (xFamilyOS), and beyond \u2014 plus standalone tools (Co-Dialectic) and apps (Career-OS). Plugins install as @xos."
+    "description": "xos — Exponential OS for Exponential Orgs, Humans, and More 2.0 (a play on the Singularity University book by Salim Ismail). The platform marketplace catalog hosted by Exponential-OS. Hosts the xOS family — AI-native operating systems for humans (xHumanOS), teams (xTeamOS), communities (xCommunityOS), families (xFamilyOS), and beyond — plus standalone tools (Co-Dialectic) and apps (Career-OS). Plugins install as @xos."
   },
   "plugins": [
     {
@@ -14,10 +14,10 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Exponential-OS/prompt-engineering-in-action.git",
-        "sha": "7efa6063dbcaff0cdd55c13a90898e048848a492",
+        "sha": "d10bdbed6a69c92565ff490d46e30889d0f7eda1",
         "path": "plugins/co-dialectic"
       },
-      "description": "Co-Dialectic v4.1.0 \u2014 LLM prompt optimizer + auto-verify by stakes (T0-T4) + auto-handoff on closure + honesty selector (brutal/grounded/soft) + agent-swarm default-on + hygiene cycle + cross-family cascade-then-jury review (judge-panel) + hallucination detector + research-first mode + fish-swarm orchestration + session handoff codification. Socratic coaching, persona detection, context management, prompt improvement, and Defense-in-Depth verification across any AI.",
+      "description": "Co-Dialectic v4.1.0 — LLM prompt optimizer + auto-verify by stakes (T0-T4) + auto-handoff on closure + honesty selector (brutal/grounded/soft) + agent-swarm default-on + hygiene cycle + cross-family cascade-then-jury review (judge-panel) + hallucination detector + research-first mode + fish-swarm orchestration + session handoff codification. Socratic coaching, persona detection, context management, prompt improvement, and Defense-in-Depth verification across any AI.",
       "version": "4.1.0",
       "category": "productivity",
       "homepage": "https://github.com/Exponential-OS/prompt-engineering-in-action"
@@ -29,7 +29,7 @@
         "url": "https://github.com/Exponential-OS/career-os-plugin.git",
         "sha": "690db081d4a2fd831ef853d86df318c124fbb6d4"
       },
-      "description": "Career OS \u2014 AI-powered career management system. The operating system for your career \u2014 persistent memory, session capture, git-versioned data, full privacy. v0.27.0 outreach-fact-check (T4 immunity) + interviewer-research (panel prep automation).",
+      "description": "Career OS — AI-powered career management system. The operating system for your career — persistent memory, session capture, git-versioned data, full privacy. v0.27.0 outreach-fact-check (T4 immunity) + interviewer-research (panel prep automation).",
       "version": "0.27.0",
       "category": "productivity",
       "homepage": "https://github.com/Exponential-OS/career-os-plugin"
